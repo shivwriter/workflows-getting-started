@@ -1,5 +1,6 @@
 # Getting started with workflows
 **First: PLEASE record your screen as you are going through this exercise and send it to Matan**
+**If you can't get to the point of editing and seeing framework following the instructions below, please message @Shivam Jindal**
 
 1. Fork this repo (see screenshots below on how to do so)
 
