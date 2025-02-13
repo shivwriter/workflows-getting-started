@@ -3,11 +3,11 @@
 
 1. Fork this repo (see screenshots below on how to do so)
 
-   a. ![Click Fork in Top Right](./static/first.png)
-   b. ![Confirm Fork](./static/second.png)
+   a. Click `Fork` in the top right ![Click Fork in Top Right](./static/first.png)
+   b. Complete forking ![Confirm Fork](./static/second.png)
 
 
-3.  Set up a github codespace for your forked repository
-   a. Run the command `pip install writer`
-   b. Run the command `writer edit .` **Don't forget the period at the end!!!**
-   c. Click the green `Open in browser` button that appears in the bottom right hand side
+3.  Set up a github codespace for your forked repository. See the video [here](https://www.loom.com/share/3ec11a67435a43ed8c6e9efaab99e0bc?sid=072b2cf5-4ed7-4ee2-af19-b1c206f81172) for how to do so.
+	1.  Run the command `pip install writer`
+	2.  Run the command `writer edit .` **Don't forget the period at the end!!!**
+	3.  Click the green `Open in browser` button that appears in the bottom right hand side
